@@ -1,5 +1,5 @@
 ---
-name: 问题描述
+name: Create a report to help us improve
 about: Create a report to help us improve
 title: ''
 labels: ''
